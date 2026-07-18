@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Model weights — too large for git, regenerate via Colab (see models/README.md)
+models/*.pt
+models/*.onnx
+!models/README.md
+
+# Dataset — lives versioned on Roboflow, not in this repo (see data/README.md)
+data/raw/*
+data/processed/*
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+runs/
+*.log
