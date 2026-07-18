@@ -31,7 +31,7 @@ Many quality checks come down to a single yes/no question that's normally answer
 
 ## Preview
 
-![Live detection demo](assets/demo.gif)
+> ?? Demo GIF coming soon � model training in progress.
 
 *Green box for `lever_open`, red for `lever_closed`, updated live frame by frame — see [Usage](#usage).*
 
@@ -257,3 +257,4 @@ For bugs or feature ideas, open an [Issue](https://github.com/mirconegri/Desktop
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
